@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <Title>BlazorMarkdownEditor</Title>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <PackageId>trueberryless.BlazorMarkdownEditor</PackageId>
+    <Authors>trueberryless</Authors>
+    <Product>$(AssemblyName)</Product>
+    <Description>Contains a Markdown Editor with a Preview Tab.</Description>
+    <Copyright>@trueberryless</Copyright>
+    <PackageIcon>trueberryless_round_under1MB.png</PackageIcon>
+    <RepositoryUrl>https://github.com/trueberryless/blazor-markdown-editor</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>Markdown;Editor;Preview</PackageTags>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="H:\My Drive\0-important\trueberryless_round_under1MB.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>

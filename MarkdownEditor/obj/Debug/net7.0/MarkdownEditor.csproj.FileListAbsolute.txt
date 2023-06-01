@@ -1,0 +1,12 @@
+D:\repos\blazor-markdown-editor\MarkdownEditor\bin\Debug\net7.0\MarkdownEditor.deps.json
+D:\repos\blazor-markdown-editor\MarkdownEditor\bin\Debug\net7.0\MarkdownEditor.dll
+D:\repos\blazor-markdown-editor\MarkdownEditor\bin\Debug\net7.0\MarkdownEditor.pdb
+D:\repos\blazor-markdown-editor\MarkdownEditor\obj\Debug\net7.0\MarkdownEditor.csproj.AssemblyReference.cache
+D:\repos\blazor-markdown-editor\MarkdownEditor\obj\Debug\net7.0\MarkdownEditor.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\blazor-markdown-editor\MarkdownEditor\obj\Debug\net7.0\MarkdownEditor.AssemblyInfoInputs.cache
+D:\repos\blazor-markdown-editor\MarkdownEditor\obj\Debug\net7.0\MarkdownEditor.AssemblyInfo.cs
+D:\repos\blazor-markdown-editor\MarkdownEditor\obj\Debug\net7.0\MarkdownEditor.csproj.CoreCompileInputs.cache
+D:\repos\blazor-markdown-editor\MarkdownEditor\obj\Debug\net7.0\MarkdownEditor.dll
+D:\repos\blazor-markdown-editor\MarkdownEditor\obj\Debug\net7.0\refint\MarkdownEditor.dll
+D:\repos\blazor-markdown-editor\MarkdownEditor\obj\Debug\net7.0\MarkdownEditor.pdb
+D:\repos\blazor-markdown-editor\MarkdownEditor\obj\Debug\net7.0\ref\MarkdownEditor.dll
